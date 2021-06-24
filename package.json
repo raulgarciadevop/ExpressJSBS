@@ -1,7 +1,7 @@
 {
-  "name": "webhook",
+  "name": "ExpressJSBS",
   "version": "1.0.0",
-  "description": "Raypal webhook",
+  "description": "Basic ExpressJS configuration",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
